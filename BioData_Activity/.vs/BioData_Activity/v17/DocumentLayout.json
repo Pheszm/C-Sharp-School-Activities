@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CARL REPOSITORY\\BioData_Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|d:\\carl repository\\biodata_activity\\biodata_activity\\addingform\\add_employment_rec_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|solutionrelative:biodata_activity\\addingform\\add_employment_rec_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|d:\\carl repository\\biodata_activity\\biodata_activity\\addingform\\add_personal_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|solutionrelative:biodata_activity\\addingform\\add_personal_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|d:\\carl repository\\biodata_activity\\biodata_activity\\otherform\\employment_rec_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|solutionrelative:biodata_activity\\otherform\\employment_rec_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|d:\\carl repository\\biodata_activity\\biodata_activity\\output_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|solutionrelative:biodata_activity\\output_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|d:\\carl repository\\biodata_activity\\biodata_activity\\addingform\\add_employment_rec_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|solutionrelative:biodata_activity\\addingform\\add_employment_rec_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|d:\\carl repository\\biodata_activity\\biodata_activity\\otherform\\employment_rec_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D5780C1-4B58-4337-A90B-0906921F0195}|BioData_Activity\\BioData_Activity.csproj|solutionrelative:biodata_activity\\otherform\\employment_rec_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add_Employment_Rec_Form.cs",
+              "DocumentMoniker": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\AddingForm\\Add_Employment_Rec_Form.cs",
+              "RelativeDocumentMoniker": "BioData_Activity\\AddingForm\\Add_Employment_Rec_Form.cs",
+              "ToolTip": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\AddingForm\\Add_Employment_Rec_Form.cs",
+              "RelativeToolTip": "BioData_Activity\\AddingForm\\Add_Employment_Rec_Form.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T00:27:21.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add_Employment_Rec_Form.cs [Design]",
+              "DocumentMoniker": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\AddingForm\\Add_Employment_Rec_Form.cs",
+              "RelativeDocumentMoniker": "BioData_Activity\\AddingForm\\Add_Employment_Rec_Form.cs",
+              "ToolTip": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\AddingForm\\Add_Employment_Rec_Form.cs [Design]",
+              "RelativeToolTip": "BioData_Activity\\AddingForm\\Add_Employment_Rec_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T00:27:06.691Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employment_Rec_Form.cs",
+              "DocumentMoniker": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\OtherForm\\Employment_Rec_Form.cs",
+              "RelativeDocumentMoniker": "BioData_Activity\\OtherForm\\Employment_Rec_Form.cs",
+              "ToolTip": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\OtherForm\\Employment_Rec_Form.cs",
+              "RelativeToolTip": "BioData_Activity\\OtherForm\\Employment_Rec_Form.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T00:16:02.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employment_Rec_Form.cs [Design]",
+              "DocumentMoniker": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\OtherForm\\Employment_Rec_Form.cs",
+              "RelativeDocumentMoniker": "BioData_Activity\\OtherForm\\Employment_Rec_Form.cs",
+              "ToolTip": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\OtherForm\\Employment_Rec_Form.cs [Design]",
+              "RelativeToolTip": "BioData_Activity\\OtherForm\\Employment_Rec_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T00:02:17.513Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add_Personal_Info.cs [Design]",
+              "DocumentMoniker": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\AddingForm\\Add_Personal_Info.cs",
+              "RelativeDocumentMoniker": "BioData_Activity\\AddingForm\\Add_Personal_Info.cs",
+              "ToolTip": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\AddingForm\\Add_Personal_Info.cs [Design]",
+              "RelativeToolTip": "BioData_Activity\\AddingForm\\Add_Personal_Info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T00:00:12.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Output_Form.cs",
+              "DocumentMoniker": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\Output_Form.cs",
+              "RelativeDocumentMoniker": "BioData_Activity\\Output_Form.cs",
+              "ToolTip": "D:\\CARL REPOSITORY\\BioData_Activity\\BioData_Activity\\Output_Form.cs",
+              "RelativeToolTip": "BioData_Activity\\Output_Form.cs",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAkwJoBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:24:00.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
