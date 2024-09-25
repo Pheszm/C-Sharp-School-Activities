@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CARL REPOSITORY\\ITE203_Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB8A1F1-71D0-4035-A1D1-3AFEE9CDF964}|ITE203_Activity\\ITE203_Activity.csproj|d:\\carl repository\\ite203_activity\\ite203_activity\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB8A1F1-71D0-4035-A1D1-3AFEE9CDF964}|ITE203_Activity\\ITE203_Activity.csproj|solutionrelative:ite203_activity\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB8A1F1-71D0-4035-A1D1-3AFEE9CDF964}|ITE203_Activity\\ITE203_Activity.csproj|D:\\CARL REPOSITORY\\ITE203_Activity\\ite203_activity\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AB8A1F1-71D0-4035-A1D1-3AFEE9CDF964}|ITE203_Activity\\ITE203_Activity.csproj|solutionrelative:ite203_activity\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB8A1F1-71D0-4035-A1D1-3AFEE9CDF964}|ITE203_Activity\\ITE203_Activity.csproj|D:\\CARL REPOSITORY\\ITE203_Activity\\ite203_activity\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AB8A1F1-71D0-4035-A1D1-3AFEE9CDF964}|ITE203_Activity\\ITE203_Activity.csproj|solutionrelative:ite203_activity\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB8A1F1-71D0-4035-A1D1-3AFEE9CDF964}|ITE203_Activity\\ITE203_Activity.csproj|D:\\CARL REPOSITORY\\ITE203_Activity\\ite203_activity\\brgyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AB8A1F1-71D0-4035-A1D1-3AFEE9CDF964}|ITE203_Activity\\ITE203_Activity.csproj|solutionrelative:ite203_activity\\brgyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentForm.cs",
+              "DocumentMoniker": "D:\\CARL REPOSITORY\\ITE203_Activity\\ITE203_Activity\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "ITE203_Activity\\DepartmentForm.cs",
+              "ToolTip": "D:\\CARL REPOSITORY\\ITE203_Activity\\ITE203_Activity\\DepartmentForm.cs",
+              "RelativeToolTip": "ITE203_Activity\\DepartmentForm.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:54:38.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\CARL REPOSITORY\\ITE203_Activity\\ITE203_Activity\\MainForm.cs",
+              "RelativeDocumentMoniker": "ITE203_Activity\\MainForm.cs",
+              "ToolTip": "D:\\CARL REPOSITORY\\ITE203_Activity\\ITE203_Activity\\MainForm.cs [Design]",
+              "RelativeToolTip": "ITE203_Activity\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:34:16.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrgyForm.cs [Design]",
+              "DocumentMoniker": "D:\\CARL REPOSITORY\\ITE203_Activity\\ITE203_Activity\\BrgyForm.cs",
+              "RelativeDocumentMoniker": "ITE203_Activity\\BrgyForm.cs",
+              "ToolTip": "D:\\CARL REPOSITORY\\ITE203_Activity\\ITE203_Activity\\BrgyForm.cs [Design]",
+              "RelativeToolTip": "ITE203_Activity\\BrgyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:34:14.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentForm.cs [Design]",
+              "DocumentMoniker": "D:\\CARL REPOSITORY\\ITE203_Activity\\ITE203_Activity\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "ITE203_Activity\\DepartmentForm.cs",
+              "ToolTip": "D:\\CARL REPOSITORY\\ITE203_Activity\\ITE203_Activity\\DepartmentForm.cs [Design]",
+              "RelativeToolTip": "ITE203_Activity\\DepartmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:33:51.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
